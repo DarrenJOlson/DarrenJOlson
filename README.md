@@ -14,8 +14,9 @@ I have a **Master’s in Sport Analytics**, and my passion lies in using data to
 📊 **Key Skills:**
 - 🏀 **Sports Analytics** – Predictive modeling & player performance evaluation  
 - 🤖 **AI & Machine Learning** – NLP, deep learning, and model optimization  
-- 📊 **Data Visualization** – ggplot2, Matplotlib, Tableau  
-- 💾 **Big Data & SQL** – PostgreSQL, Snowflake, ETL processes  
+- 📊 **Data Analysis & Visualization** – R (Tidyverse), Tableau, SQL  
+- 💾 **Data Management** – SQL (queries, joins), CSV/Excel data handling  
+- 📈 **Statistical Analysis & Modeling** – Regression, Hypothesis Testing, ANOVA  
 - 🔧 **Tech Stack** – Python, R, SQL, Git, Salesforce, APIs  
 
 ---
