@@ -21,6 +21,16 @@ I have a **Master’s in Sport Analytics**, and my passion lies in using data to
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎳 [PBA Tournament Analysis System](https://github.com/DarrenJOlson/pba-analysis-app)
+A full-stack application that analyzes professional bowling tournament data to predict performance across different oil patterns and venues. Built with Python, Flask, React, and data visualization libraries.
+
+### 🏀 [NBA Contract Year Analysis](https://github.com/DarrenJOlson/NBA-Contract-Year-Analysis)
+Statistical analysis investigating the "contract year phenomenon" in the NBA, examining whether players perform better in the final year of their contracts. Implemented in R with advanced statistical modeling.
+
+---
+
 ## 📫 Let's Connect!
 💼 **[LinkedIn](https://www.linkedin.com/in/darrenjolson/)**  
 
