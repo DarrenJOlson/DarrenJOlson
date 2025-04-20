@@ -23,6 +23,9 @@ I have a **Master’s in Sport Analytics**, and my passion lies in using data to
 
 ## 🚀 Featured Projects
 
+### 📺 [SportDesk – Automated NBA Highlight Engine](https://github.com/DarrenJOlson/nba-highlight-app)  
+A fully automated system that creates 60-second NBA highlight recaps for every game using Python, LLMs, voice synthesis, and video editing tools. Designed for daily publishing on YouTube Shorts, TikTok, and Instagram Reels. Inspired by fast-paced, no-fluff sports coverage — reimagined for modern platforms.
+
 ### 🎳 [PBA Tournament Analysis System](https://github.com/DarrenJOlson/pba-analysis-app)
 A full-stack application that analyzes professional bowling tournament data to predict performance across different oil patterns and venues. Built with Python, Flask, React, and data visualization libraries.
 
